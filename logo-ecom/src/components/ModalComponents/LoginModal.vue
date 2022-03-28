@@ -62,9 +62,9 @@
   </div>
 </template>
 <script>
-import User from '../models/user';
+import User from '../../models/user';
 export default {
-  name: 'Login',
+  name: 'LoginC',
   data() {
     return {
       user: new User('', ''),
