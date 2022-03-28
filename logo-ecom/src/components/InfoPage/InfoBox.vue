@@ -1,5 +1,3 @@
-<!-- takes the product as a property. -->
-<!-- info component body -->
 <template>
   <div>
     <div class="row mb-5" v-for="it in information" :key="it.product_id">

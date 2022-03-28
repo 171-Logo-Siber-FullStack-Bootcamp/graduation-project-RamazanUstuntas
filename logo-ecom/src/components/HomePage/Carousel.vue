@@ -8,23 +8,13 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <video id="page-video" muted autoplay playsinline loop>
-            <source src="https://cdn-nq.logo.com.tr/assets/videos/covar-main.mp4" type="video/mp4" />
-          </video>
+          <video id="page-video" muted="" autoplay="" playsinline="" loop=""><source src="https://cdn-nq.logo.com.tr/assets/videos/covar-main.mp4" type="video/mp4"></video>
         </div>
         <div class="carousel-item">
-          <img
-            class="img-fluid"
-            src="https://www.boraxbilgisayar.com/images/berqnet-firewall-utm-satis-kurulum.jpg"
-            alt="Second slide"
-          />
+          <img class="img-fluid" src="https://www.boraxbilgisayar.com/images/berqnet-firewall-utm-satis-kurulum.jpg" alt="Second slide">
         </div>
         <div class="carousel-item">
-          <img
-            class="img-fluid"
-            src="https://berqnet.com/uploads/pro-compare_op.webp"
-            alt="Third slide"
-          />
+          <img class="img-fluid" src="https://berqnet.com/uploads/pro-compare_op.webp" alt="Third slide">
         </div>
       </div>
     </div>

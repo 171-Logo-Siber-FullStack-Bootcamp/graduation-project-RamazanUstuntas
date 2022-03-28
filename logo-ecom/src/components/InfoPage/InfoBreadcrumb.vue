@@ -1,5 +1,3 @@
-<!-- takes the product as a property. -->
-<!-- info component header -->
 <template>
   <div>
     <nav class="row justify-content-start" v-for="it in information" :key="it.product_id" aria-label="breadcrumb">
@@ -20,7 +18,6 @@ export default {
   props: ['information'],
   name: 'InfoBreadcrumb',
   methods: {
-    // can be dynamized.
     getCategoryName(it){
       switch(it){
         case 1:

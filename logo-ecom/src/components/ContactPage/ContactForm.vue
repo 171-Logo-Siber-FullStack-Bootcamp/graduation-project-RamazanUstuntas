@@ -1,4 +1,3 @@
-<!-- the contact form function is not active to be edited. -->
 <template>
   <section>
     <div class="container-fluid py-5">

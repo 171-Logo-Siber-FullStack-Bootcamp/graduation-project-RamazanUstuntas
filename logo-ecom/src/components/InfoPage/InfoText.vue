@@ -1,5 +1,3 @@
-<!-- takes the product as a property. -->
-<!-- info component footer -->
 <template>
   <div>
     <div class="more info d-flex justify-content-between text-center" >
