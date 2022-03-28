@@ -1,0 +1,137 @@
+[
+  {
+        "product_id": 1,
+        "category_id": 2,
+        "name": "ASUS ROG STRIX-AX3000",
+        "description": "GS-AX3000 dual-band WiFi 6 gaming router Ai Mesh-AiProtection-Torrent-Cloud-Game Port-Parent Control-Router-Access Point",
+        "price": "3489",
+        "warranty": 36,
+        "img_url": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/128930-2_large.jpg"
+    },
+    {
+        "product_id": 8,
+        "category_id": 1,
+        "name": "Berqnet bq60",
+        "description": "It is developed in accordance with network cyber security needs of small or medium-sized enterprises.",
+        "price": "13000",
+        "warranty": 12,
+        "img_url": "https://productimages.hepsiburada.net/s/54/500/11172981145650.jpg"
+    },
+    {
+        "product_id": 9,
+        "category_id": 1,
+        "name": "Berqnet bq25s",
+        "description": "the bq25s Firewall Device has been developed in accordance with the KVKK and the law No. 5651 for the network cybersecurity needs of small businesses, branches or remote offices.",
+        "price": "8000",
+        "warranty": 12,
+        "img_url": "https://n11scdn.akamaized.net/a1/640/elektronik/diger/berqnet-bq25s-firewall-1-yil-lisansli-berqnet-bq25s__0156850597192361.jpeg"
+    },
+    {
+        "product_id": 10,
+        "category_id": 1,
+        "name": "Berqnet bq60-SE",
+        "description": "Berqnet bq60-SE was developed in accordance with the laws of KVKK & 5651 for the network cybersecurity needs of small and medium-sized enterprises branches or remote offices.",
+        "price": "9000",
+        "warranty": 12,
+        "img_url": "https://productimages.hepsiburada.net/s/54/500/11172980588594.jpg"
+    },
+    {
+        "product_id": 11,
+        "category_id": 1,
+        "name": "Berqnet bq60-S",
+        "description": "the bq60s Firewall Device was developed in accordance with the laws of KVKK & 5651 for the network cybersecurity needs of small and medium-sized enterprises branches or remote offices.",
+        "price": "13000",
+        "warranty": 12,
+        "img_url": "https://productimages.hepsiburada.net/s/27/500/10180752080946.jpg"
+    },
+    {
+        "product_id": 12,
+        "category_id": 1,
+        "name": "Berqnet bq100",
+        "description": "the bq100 Firewall Device was developed in accordance with the laws of KVKK & 5651 for the network cybersecurity needs of medium-sized enterprises.",
+        "price": "18000",
+        "warranty": 12,
+        "img_url": "https://productimages.hepsiburada.net/s/27/550/10180751949874.jpg"
+    },
+    {
+        "product_id": 13,
+        "category_id": 1,
+        "name": "Berqnet bq200",
+        "description": "the bq200 Firewall Device was developed in accordance with the laws of KVKK & 5651 for the network cybersecurity needs of medium-sized or growing enterprises.",
+        "price": "55000",
+        "warranty": 12,
+        "img_url": "https://productimages.hepsiburada.net/s/53/500/11125632073778.jpg"
+    },
+    {
+        "product_id": 14,
+        "category_id": 2,
+        "name": "HUAWEI WiFi Router WS318 - White",
+        "description": "Wi-Fi scheduler, Guest Wi-Fi, Device Speed Limitation, MAC Address Filter, Parental Control, VPN Migration, Virtual Server, Wi-Fi Channel Optimization, Support for creating a HUAWEI Home Wi-Fi System to achieve Wi-Fi smooth roaming",
+        "price": "499",
+        "warranty": 24,
+        "img_url": "https://img01.huaweifile.com/eu/tr/huawei/pms/product/6901443332205/group/800_800_B6880461295436D2724E9AD80B4BCD67A3D23BC611D14828.webp"
+    },
+    {
+        "product_id": 15,
+        "category_id": 2,
+        "name": "TP-Link Archer AX10 AX 1500 Mbps Wi-Fi 6 Router",
+        "description": "Wi-Fi 6 provides a huge increase in speed and total capacity. It uses the latest Wi-Fi technology to slow down all the annoying flickering, and you can easily enjoy a network that loads faster and connects more devices.",
+        "price": "969",
+        "warranty": 24,
+        "img_url": "https://productimages.hepsiburada.net/s/38/550/10585138495538.jpg/format:webp"
+    },
+    {
+        "product_id": 16,
+        "category_id": 3,
+        "name": "Cisco SG110-24 24-Port Gigabit Switch",
+        "description": "This product is supported by Cisco, but is no longer being sold. End-of-Support Date:31-OCT-2026",
+        "price": "3800",
+        "warranty": 24,
+        "img_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSVlo_tya036BfLOaIYpW4wJBv7eXc5jcDQagXAVAfg5LMqcrCsfIV7tcwUIKcRfoxVDiZjdasofbOUCA8krCUfSzd6Li8tWge_AYMFs_NW&usqp=CAE"
+    },
+    {
+        "product_id": 17,
+        "category_id": 3,
+        "name": "Cisco Catalyst 3650-48P Layer 3 Switch",
+        "description": "The Cisco Catalyst 3650 Series is the next generation of enterprise-class standalone and stackable access-layer switches that provide the foundation for full convergence between wired and wireless on a single platform.",
+        "price": "42000",
+        "warranty": 36,
+        "img_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTxE9RTrZdQ0EsG4RdSRxrTUIP2F4hlLfyGPcn5qa2mOzj5vFF8D9r5pugMmnpjH6yh3ar4q8F5qnX1dfl7aSN7LC1F1JanZacG7aeI2L0WazbIvwIwSZOpvqOM&usqp=CAY"
+    },
+    {
+        "product_id": 18,
+        "category_id": 3,
+        "name": "Cisco SG110D-08-EU 8 Port GigaBit Switch",
+        "description": "The SG110D-08 model is equipped with 8 ports with a maximum throughput of 1000 Mbps per port. The switch belongs to the Cisco Small Business 110 Series and is designed for small office use. The switch does not require configuration. Built-in QoS functions automatically give higher priority to sensitive data such as video and audio.",
+        "price": "950",
+        "warranty": 24,
+        "img_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQbMJulXnK8-v4SIuft3sjxxZBrrKAGwZNIEAmGKrMF8rvs-zoH-7IIYM_Hx22oYpEv7KFyHbn4qZm7751XpYHvG2kyQWk2NcxBPBskHs_I0nlTzNNy1HdN8oI"
+    },
+    {
+        "product_id": 19,
+        "category_id": 4,
+        "name": "Xiaomi Mi Wifi Repeater Pro Signal Booster",
+        "description": "Xiaomi Wifi Pro Repeater is an amplifier that can be used for areas where the connection is weak or out of range, when your wireless modem is insufficient. You can improve your connection quality with Xiaomi Wifi Pro Repeater at points where the connection is weak in your home.",
+        "price": "150",
+        "warranty": 24,
+        "img_url": "https://productimages.hepsiburada.net/s/36/550/10503100661810.jpg"
+    },
+    {
+        "product_id": 20,
+        "category_id": 4,
+        "name": "ASUS Rp-N12 Repeater",
+        "description": "Wi-Fi 4 N300, Wlan Range Extension, Power Switch, 2 External Antennas, Application Control",
+        "price": "298",
+        "warranty": 24,
+        "img_url": "https://c1.neweggimages.com/ProductImage/33-320-238-02.jpg"
+    },
+    {
+        "product_id": 22,
+        "category_id": 4,
+        "name": "Tp-Link Tl-Wa855Re Repeater",
+        "description": "300 Mbit/S, Wlan Amplifier, Application Control, Port, 2X Flexible External Antenna, Wps, Ap Mode, Compatible with All Wlan Devices - White",
+        "price": "277",
+        "warranty": 24,
+        "img_url": "https://www.batna24.com/img2/1000/182284_1.webp"
+    }
+]

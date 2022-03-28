@@ -1,0 +1,22 @@
+{
+  "name": "logo-api",
+  "version": "1.0.0",
+  "description": "Logo E-com Api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "Logo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.1.0",
+    "cors": "^2.8.5",
+    "elasticsearch": "^16.7.3",
+    "express": "^4.17.3",
+    "pg": "^8.7.3",
+    "winston": "^3.6.0"
+  }
+}

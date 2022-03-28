@@ -1,0 +1,12 @@
+info: Mar-29-2022 01:26:20: 	Server is running on port 5000
+info: Mar-29-2022 01:28:22: 	Server is running on port 5000
+info: Mar-29-2022 01:29:00: 	Server is running on port 5000
+info: Mar-29-2022 01:31:31: 	Server is running on port 5000
+error: Mar-29-2022 01:31:38: 	Client İp: ::ffff:127.0.0.1: Elastic-Error => {"_index":"logo-products","_type":"products_list","_id":"60","_version":1,"result":"not_found","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":89,"_primary_term":5}
+error: Mar-29-2022 01:31:53: 	Client İp: ::ffff:127.0.0.1: Elastic-Error => {"_index":"logo-products","_type":"products_list","_id":"59","_version":1,"result":"not_found","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":90,"_primary_term":5}
+error: Mar-29-2022 01:31:58: 	Client İp: ::ffff:127.0.0.1: Elastic-Error => {"_index":"logo-products","_type":"products_list","_id":"58","_version":1,"result":"not_found","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":91,"_primary_term":5}
+error: Mar-29-2022 01:32:03: 	Client İp: ::ffff:127.0.0.1: Elastic-Error => {"_index":"logo-products","_type":"products_list","_id":"57","_version":1,"result":"not_found","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":92,"_primary_term":5}
+error: Mar-29-2022 01:32:17: 	Client İp: ::ffff:127.0.0.1: Elastic-Error => {"_index":"logo-products","_type":"products_list","_id":"55","_version":1,"result":"not_found","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":93,"_primary_term":5}
+error: Mar-29-2022 01:32:21: 	Client İp: ::ffff:127.0.0.1: Elastic-Error => {"_index":"logo-products","_type":"products_list","_id":"54","_version":1,"result":"not_found","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":94,"_primary_term":5}
+error: Mar-29-2022 01:32:31: 	Client İp: ::ffff:127.0.0.1: Elastic-Error => {"_index":"logo-products","_type":"products_list","_id":"53","_version":1,"result":"not_found","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":95,"_primary_term":5}
+error: Mar-29-2022 01:32:34: 	Client İp: ::ffff:127.0.0.1: Elastic-Error => {"_index":"logo-products","_type":"products_list","_id":"44","_version":1,"result":"not_found","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":96,"_primary_term":5}
