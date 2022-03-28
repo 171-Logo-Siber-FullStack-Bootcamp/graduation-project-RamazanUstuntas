@@ -1,4 +1,3 @@
-<!-- Products Page header -->
 <template>
   <div>
   <h1 class="pt-3 text-center">New arrivals</h1>

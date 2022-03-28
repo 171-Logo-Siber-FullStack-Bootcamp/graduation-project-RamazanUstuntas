@@ -1,4 +1,3 @@
-<!-- Product Card Component -->
 <template>
   <div>
     <transition-group name="fade" class="row" tag="div">

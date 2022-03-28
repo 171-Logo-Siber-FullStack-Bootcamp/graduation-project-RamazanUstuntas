@@ -1,4 +1,3 @@
-<!-- this is value slider on the grid -->
 <template>
     <div @click="getValue('sli')">
       <vue-slider ref="sli" v-model="value" v-bind="options"></vue-slider>

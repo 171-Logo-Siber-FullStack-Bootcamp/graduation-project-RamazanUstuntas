@@ -1,4 +1,3 @@
-<!-- Products page body -->
 <template>
   <div class="container grid">
     <div class="justify-content-around">
