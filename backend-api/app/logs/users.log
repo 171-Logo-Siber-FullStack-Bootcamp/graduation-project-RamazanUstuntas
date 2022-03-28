@@ -1,0 +1,8 @@
+error: Mar-28-2022 21:44:07: 	Client İp: ::ffff:127.0.0.1 User name : test => "Invalid Password!"
+error: Mar-28-2022 21:44:23: 	Client İp: ::ffff:127.0.0.1 User name : testasdasd => "User Not Found."
+error: Mar-28-2022 21:52:09: 	Client İp: ::ffff:127.0.0.1 User name : admin => "User Not Found."
+error: Mar-28-2022 21:52:52: 	Client İp: ::ffff:127.0.0.1 User name : admin => "User Not Found."
+error: Mar-28-2022 21:53:22: 	Client İp: ::ffff:127.0.0.1 User name : test => "User Not Found."
+error: Mar-28-2022 21:54:01: 	Client İp: ::ffff:127.0.0.1 User name : test => "User Not Found."
+error: Mar-28-2022 21:54:15: 	Client İp: ::ffff:127.0.0.1 User name : test => "Invalid Password!"
+error: Mar-28-2022 21:54:18: 	Client İp: ::ffff:127.0.0.1 User name : testadasd => "User Not Found."
