@@ -149,7 +149,7 @@ export default {
       createActive: false,
       deleteActive: false,
       product: new Product('', '', '', '', '', ''),
-      category_id: [{ text: '', value:'null'}, 
+      category_id: [ 
                     { text: 'Firewall', value:'1'},
                     { text: 'Router', value:'2'}, 
                     { text: 'Switch', value:'3'}, 
