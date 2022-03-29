@@ -10,6 +10,7 @@ const initialState = user
   : { loggedIn: false , user: null };
 
 let cartItems = window.localStorage.getItem('cart');
+const API_URL = "http://localhost:5000";
 
 Vue.use(Vuex);
 Vue.use(VueAxios, axios);
@@ -88,21 +89,21 @@ export default new Vuex.Store({
   actions: {
    getProducts({commit}) {
      axios
-      .get('http://localhost:5000/getAllProduct')
+      .get(API_URL+'/getAllProduct')
       .then(response => {
         commit('SET_ITEMS',response.data)
       })
    },
    getCategories({commit}) {
     axios
-     .get('http://localhost:5000/getCategories')
+     .get(API_URL+'/getCategories')
      .then(response => {
        commit('SET_CATEGORIES',response.data)
      })
    },
    createProduct(product){
      axios
-      .post('http://localhost:5000/createProduct', product)
+      .post(API_URL+'/createProduct', product)
    },
    login({ commit }, user) {
     return AuthService.login(user).then(
