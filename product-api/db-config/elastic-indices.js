@@ -1,3 +1,4 @@
+/* THIS FILE CREATED FOR ELASTICSEARCH INDICES-INDEX*/
 const { Client } = require('@elastic/elasticsearch')
 const fs = require('fs');
 

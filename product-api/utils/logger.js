@@ -1,5 +1,6 @@
 const { createLogger, format, transports } = require('winston');
 
+// SERVER LOGGER
 serverLogger = createLogger({
   transports:
       new transports.File({
@@ -11,6 +12,7 @@ serverLogger = createLogger({
       )}),
 });
 
+// PRODUCT ADD-DELETE TRANSACTION LOGGER
 transactionLogger = createLogger({
   transports:
       new transports.File({

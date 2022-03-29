@@ -1,5 +1,6 @@
 const { createLogger, format, transports } = require('winston');
 
+// server error-info logger
 serverLogger = createLogger({
   transports:
       new transports.File({
@@ -10,7 +11,7 @@ serverLogger = createLogger({
           format.printf(info => `${info.level}: ${[info.timestamp]}: ${info.message}`),
       )}),
 });
-
+// user transaction logger
 usersLogger = createLogger({
   transports:
       new transports.File({
