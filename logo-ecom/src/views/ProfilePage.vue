@@ -186,6 +186,7 @@ export default {
       this.createActive = !this.createActive
       this.onReset()
     },
+    // fetch operations here will be moved to the store file !!
     onSubmitCreate(event) {
       event.preventDefault()
       axios
