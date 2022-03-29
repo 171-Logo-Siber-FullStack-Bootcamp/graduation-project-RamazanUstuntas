@@ -1,5 +1,15 @@
 // Connect to Elastic Client
 const { Client } = require('@elastic/elasticsearch')
-const esClient = new Client({ node: 'http://localhost:9200' })
+const config = require('config');
+const elasticConfig = config.get('elastic');
 
-module.exports = esClient;
+
+exports.esClient = new Client({
+  cloud: {
+    id: elasticConfig.cloudID
+  },
+  auth: {
+    username: elasticConfig.username,
+    password: elasticConfig.password
+  }
+})

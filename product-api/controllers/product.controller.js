@@ -59,7 +59,7 @@ exports.createProduct = async (req, res) => {
           transactionLogger.info(`Client İp: ${req.ip}: Product added on ElasticSearch => Name: ${name} , Product_id: ${product_id} Category_id: ${category_id}`)
           res.status(201).send(`Product added on postgresql and elastic with name: ${name}`);
         }).catch((err) => {
-          serverLogger.error(`Client İp: ${req.ip}: Elastic-Error => ${error.message}`)
+          serverLogger.error(`Client İp: ${req.ip}: Elastic-Error => ${err.message}`)
           res.status(400).send(`Error: ${err.message}`)
         })
       })
@@ -93,7 +93,7 @@ exports.deleteProduct = async (req, res) => {
     })
   })
 }
-
+// elasticsearch search section
 exports.searchElastic =  async (req, res) =>{
     
   let body = {
@@ -101,22 +101,22 @@ exports.searchElastic =  async (req, res) =>{
     from: 0,
     query: {
       match: {
-              name: {
-                  query: req.query['q'],
-                  fuzziness: 4
-              }
-          }
+        name:{
+          query: req.query['q'],
+          fuzziness: 2
+        }     
       }
+    }
   }
  
-  elasticClient.search({index:'logo-products', body:body, type:'products_list'})
+  esClient.search({index:'logo-products', body:body})
   .then(results => {
           res.send(results.hits.hits);
           /* console.log(results.hits.hits) */
       
   })
   .catch(err=>{
-    serverLogger.error(`Client İp: ${req.ip}: Search-Error => ${error.message}`)
+    serverLogger.error(`Client İp: ${req.ip}: Search-Error => ${err.message}`)
     res.send([]);
   });
 
