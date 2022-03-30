@@ -21,12 +21,7 @@
 
 <br/><br/>
 
-<hr>
-<h1 align="center"><a target="_blank" href="https://logo-ecommerce.herokuapp.com" >--> Try This Application Live <--</a></h1>
 
-
-<br/><br/>
-<br/><br/>
 
 <div align="center">
    <h1 id="built-with">Built With<h1>
