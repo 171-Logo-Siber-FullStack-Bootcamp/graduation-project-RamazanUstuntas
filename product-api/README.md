@@ -79,10 +79,11 @@ BASE_URL/search?q=
    </a> 
    <td><a href="https://github.com/winstonjs/winston#readme" target="_blank" rel="noreferrer">
    <img src="https://avatars1.githubusercontent.com/u/9682013?v=4" width="175" height="75">
+   </a>
    <td><a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer">
    <img src="https://wiki.calculate-linux.org/download_images/original/xpostgresql.jpg.pagespeed.ic.82ZZ05AnGg.jpg" width="175" height="75">
    </a>
-   </a>
+   
    </tr>
    </table>
 </div>
