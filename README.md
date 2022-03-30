@@ -28,9 +28,9 @@
     <img src="./logo-ecom/src/assets/desktop.png" alt="Demo" width="60%" height="450">
     <br/><br/><br/><br/>
     <h2>My full-stack E-commerce application that I created for the Bootcamp graduation project.</h2>
-    <h3>All of the products and brands in the application have been put as examples.</h3>
-    <h2>This application consists of 3 parts: front-end, back-end and a product api. For details, visit the corresponding folders.</h2>
-    <h3>Note: All of the products and brands in the application have been put as examples.</h3>
+    <br>
+    <h4>This application consists of 3 parts: front-end, back-end and a product api. For details, visit the corresponding folders.</h4>
+    <h6>Note: All of the products and brands in the application have been put as examples.</h6>
     <br/>
 </div>
 
