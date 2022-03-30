@@ -38,9 +38,9 @@
    </a> 
    <td><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
    <img src="https://camo.githubusercontent.com/84746920d1a9906680c387b3cc8753ee842e996fc8915abd295011e15b594b74/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e312f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" width="175" height="75">
+   </a>
    <td><a href="https://fortawesome.com/" target="_blank" rel="noreferrer">
    <img src="https://avatars.githubusercontent.com/u/1505683?s=200&v=4" width="175" height="75">
-   </a>
    </a>
    </tr>
    </table>
