@@ -3,8 +3,8 @@
 <h1 align="center"><a target="_blank" href="https://logo-ecommerce.herokuapp.com" >--> Try This Application Live <--</a></h1>
 
 <h4>You can create a regular user record and log in.</h4>
-<h3>For an account with admin and moderator authority (to add and delete products):</h3>
 <br>
+<h5>For an account with admin and moderator authority (to add and delete products):</h5>
 <p>username: admin</p>
 <p>password: admin123</p>
 <br><br>
