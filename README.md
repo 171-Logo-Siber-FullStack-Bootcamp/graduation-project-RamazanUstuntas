@@ -1,4 +1,7 @@
 
+<p><h3>Note:</h3>*** Servers are put into sleep mode because they are deployed for free with Heroku.<br>
+*** For this reason, it takes 10 seconds for the servers to start for the arrival of products and registration login processes.</p>
+
 <hr>
 <h1 align="center"><a target="_blank" href="https://logo-ecommerce.herokuapp.com" >--> Try This Application Live <--</a></h1>
 
